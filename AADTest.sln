@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AADTest2", "AADTest2\AADTest2.csproj", "{7468F66A-4CCC-41B1-B8EC-CFDD19C3A455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AADTestDotnetCore", "AADTest2\AADTestDotnetCore.csproj", "{7468F66A-4CCC-41B1-B8EC-CFDD19C3A455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AADTest4", "AADTest4\AADTest4.csproj", "{FADEF93D-9E35-4492-B819-38B6D4CF74DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AADTestDotnetFramework", "AADTest4\AADTestDotnetFramework.csproj", "{FADEF93D-9E35-4492-B819-38B6D4CF74DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
